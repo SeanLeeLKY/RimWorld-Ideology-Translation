@@ -54,19 +54,19 @@
   <ChristmasTree.description>一株被灯烛和装饰品装饰的用作圣诞节庆祝活动的树。</ChristmasTree.description>
   
   <!-- EN: standing darklamp -->
-  <Darklamp.label>暗光落地灯</Darklamp.label>
+  <Darklamp.label>微光落地灯</Darklamp.label>
   <!-- EN: A low-powered electrical standing lamp that emits a dim light over a large area. People who prefer to work in darklight are happy with this light source. -->
-  <Darklamp.description>一种低功率电灯，在大范围内发出暗淡的光。适合喜欢在暗光下工作的人们。</Darklamp.description>
+  <Darklamp.description>一种低功率电灯，在大范围内发出暗淡的光。适合喜欢在微光下工作的人们。</Darklamp.description>
   
   <!-- EN: darktorch -->
-  <Darktorch.label>暗光火把</Darktorch.label>
+  <Darktorch.label>微光火把</Darktorch.label>
   <!-- EN: A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <Darktorch.description>一种经过特殊处理的木制火把，能在很大范围内发出暗淡的光。适合喜欢在暗光下工作的人们。需要添加原木作为燃料。产生少量的热。</Darktorch.description>
+  <Darktorch.description>一种经过特殊处理的木制火把，能在很大范围内发出暗淡的光。适合喜欢在微光下工作的人们。需要添加原木作为燃料。产生少量的热。</Darktorch.description>
   
   <!-- EN: fungus darktorch -->
-  <DarktorchFungus.label>暗光菌炬</DarktorchFungus.label>
+  <DarktorchFungus.label>微光菌炬</DarktorchFungus.label>
   <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <DarktorchFungus.description>一种经过特殊处理的真菌炬，能在很大范围内发出暗淡的光。适合喜欢在暗光下工作的人们。需要添加菌菇作为燃料。产生少量的热。</DarktorchFungus.description>
+  <DarktorchFungus.description>一种经过特殊处理的真菌炬，能在很大范围内发出暗淡的光。适合喜欢在微光下工作的人们。需要添加菌菇作为燃料。产生少量的热。</DarktorchFungus.description>
   
   <!-- EN: effigy -->
   <Effigy.label>木雕</Effigy.label>
