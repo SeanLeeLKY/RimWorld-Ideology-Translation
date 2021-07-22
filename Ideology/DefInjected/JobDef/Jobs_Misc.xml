@@ -38,7 +38,7 @@
   <MeditatePray.reportString>正在祈祷。</MeditatePray.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <OpenStylingStationDialog.reportString>正在改变TargetA的风格。</OpenStylingStationDialog.reportString>
+  <OpenStylingStationDialog.reportString>正在TargetA改变风格。</OpenStylingStationDialog.reportString>
   
   <!-- EN: recoloring apparel -->
   <RecolorApparel.reportString>正在给服装染色。</RecolorApparel.reportString>
@@ -50,9 +50,9 @@
   <Scarify.reportString>正在批评TargetA。</Scarify.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStation.reportString>正在改变TargetA的风格。</UseStylingStation.reportString>
+  <UseStylingStation.reportString>正在TargetA改变风格。</UseStylingStation.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStationAutomatic.reportString>正在改变TargetA的风格。</UseStylingStationAutomatic.reportString>
+  <UseStylingStationAutomatic.reportString>正在TargetA改变风格。</UseStylingStationAutomatic.reportString>
   
 </LanguageData>
