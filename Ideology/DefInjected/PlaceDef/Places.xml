@@ -293,7 +293,7 @@
     <li>place_personalWeapon->废料剑</li>
     <li>place_personalWeapon->缺口匕首</li>
     <li>place_massWeapon->挖出的核弹</li>
-    <li>place_massWeapon->古代毒性炸弹</li>
+    <li>place_massWeapon->远古毒性炸弹</li>
     <li>place_foeLeader->秘密领导人</li>
     <li>place_foeSoldiers->秘密士兵</li>
   </Ilwaba.placeRules.rulesStrings>

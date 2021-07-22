@@ -22,8 +22,8 @@
   <NoInteraction.description>狱卒不会与这个奴隶互动。</NoInteraction.description>
   
   <!-- EN: suppress -->
-  <Suppress.label>镇压</Suppress.label>
+  <Suppress.label>压制</Suppress.label>
   <!-- EN: Wardens will periodically intimidate the slave to increase their suppression level and reduce the chance of rebellion. -->
-  <Suppress.description>狱卒会定期对奴隶进行恐吓威胁，提高他们的镇压程度，减少反叛的几率。</Suppress.description>
+  <Suppress.description>狱卒会定期对奴隶进行恐吓威胁，提高他们的压制程度，减少反叛的几率。</Suppress.description>
   
 </LanguageData>

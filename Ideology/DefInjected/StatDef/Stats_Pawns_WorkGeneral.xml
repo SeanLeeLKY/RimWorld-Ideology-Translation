@@ -7,8 +7,8 @@
   <HackingSpeed.description>这个人破解并骇入计算机终端的速度。</HackingSpeed.description>
   
   <!-- EN: suppression power -->
-  <SuppressionPower.label>镇压能力</SuppressionPower.label>
+  <SuppressionPower.label>压制能力</SuppressionPower.label>
   <!-- EN: A multiplier on a warden's ability to suppress slaves. -->
-  <SuppressionPower.description>狱卒镇压奴隶的能力乘数。</SuppressionPower.description>
+  <SuppressionPower.description>狱卒压制奴隶的能力乘数。</SuppressionPower.description>
   
 </LanguageData>
