@@ -612,6 +612,7 @@
     <li>place_foeLeader->corrupt bureaucrat</li>
     <li>place_foeSoldiers->bionic guards</li>
   -->
+ <Rogia.placeRules.rulesStrings>
   <li>place_name->罗杰亚</li>
   <li>place_adjective->罗杰亚</li>
   <li>place_summary->闪耀科技世界</li>
@@ -631,7 +632,7 @@
   <li>place_massWeapon->远程控制机械族病毒</li>
   <li>place_foeLeader->腐败官僚</li>
   <li>place_foeSoldiers->仿生守卫</li>
-</Rogia.placeRules.rulesStrings>
+ </Rogia.placeRules.rulesStrings>
 
 <!-- EN:
     <li>place_name->Wavia</li>

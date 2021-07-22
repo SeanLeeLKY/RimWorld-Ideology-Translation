@@ -21,7 +21,7 @@
   <!-- EN: conversion ritual -->
   <ConversionRitual.label>转化仪式</ConversionRitual.label>
   <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
-  <ConversionRitual.description>试着劝说某人采纳你的信条。如果进展顺利，他们就会失去对自己某些信条的坚持，并有可能可能改变信条。如果效果不好，他们会更加坚定自己原有的信条。\n\n需要选择一个特定的仪式地点，并且要有匹配的祭坛或者符文图像c才能开始仪式。</ConversionRitual.description>
+  <ConversionRitual.description>试着劝说某人采纳你的信条。如果进展顺利，他们就会失去对自己某些信条的坚持，并有可能可能改变信条。如果效果不好，他们会更加坚定自己原有的信条。\n\n需要选择一个特定的仪式地点，并且要有匹配的祭坛或者文化符号才能开始仪式。</ConversionRitual.description>
   
   <!-- EN: convert -->
   <Convert.label>教化</Convert.label>

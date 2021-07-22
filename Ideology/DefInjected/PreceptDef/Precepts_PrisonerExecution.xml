@@ -22,7 +22,7 @@
   <Execution_DontCare.description>处决囚犯是可接受的，无论这些人有罪或无罪。</Execution_DontCare.description>
   
   <!-- EN: always horrible -->
-  <Execution_Horrible.label>总是惧怕</Execution_Horrible.label>
+  <Execution_Horrible.label>总是畏惧</Execution_Horrible.label>
   <!-- EN: Executing a prisoner is a horrible thing under any circumstances. -->
   <Execution_Horrible.description>任何情况下处决囚犯都是件恐怖的事情。</Execution_Horrible.description>
   <!-- EN: Executed prisoner -->
@@ -37,7 +37,7 @@
   <Execution_Horrible.comps.7.description>有人处决了囚犯</Execution_Horrible.comps.7.description>
   
   <!-- EN: horrible if innocent -->
-  <Execution_HorribleIfInnocent.label>惧怕无辜的</Execution_HorribleIfInnocent.label>
+  <Execution_HorribleIfInnocent.label>畏惧冤罪</Execution_HorribleIfInnocent.label>
   <!-- EN: Executing an innocent prisoner is a horrible thing. If the prisoner is guilty, it's acceptable. -->
   <Execution_HorribleIfInnocent.description>处决无辜囚犯是件恐怖的事情，如果囚犯是有罪的，则可以接受。</Execution_HorribleIfInnocent.description>
   <!-- EN: Executed innocent prisoner -->
