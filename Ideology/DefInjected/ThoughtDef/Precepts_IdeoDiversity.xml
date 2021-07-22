@@ -4,17 +4,17 @@
   <!-- EN: false altar -->
   <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>异端祭坛</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>
   <!-- EN: The altar of a false belief is in the room with our {ALTAR_labelShort}! It's a disgusting violation of our sanctity. -->
-  <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>异端信仰的祭坛就在我们的房间{ALTAR_labelShort}！这是对我们圣洁的亵渎。</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>异端的祭坛和我们的{ALTAR_labelShort}在同一个房间！这是对我们的亵渎。</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>
   
   <!-- EN: false altar -->
   <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>异端祭坛</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>
   <!-- EN: The altar of a false belief is in the room with our {ALTAR_labelShort}. It's wrong. -->
-  <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>异端信仰的祭坛就在我们的房间{ALTAR_labelShort}。这是不对的。</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>异端的祭坛和我们的{ALTAR_labelShort}在同一个房间。这是不对的。</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>
   
   <!-- EN: false altar -->
   <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>异端祭坛</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>
   <!-- EN: The altar of a false belief is in the room with our {ALTAR_labelShort}. It's a violation of our sanctity. -->
-  <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>异端信仰的祭坛就在我们的房间{ALTAR_labelShort}。这是对我们神圣的侵犯。</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>
+  <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>异端的祭坛和我们的{ALTAR_labelShort}在同一个房间。这是对我们神圣的侵犯。</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>
   
   <!-- EN: diverse thoughts -->
   <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>多样思想</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>

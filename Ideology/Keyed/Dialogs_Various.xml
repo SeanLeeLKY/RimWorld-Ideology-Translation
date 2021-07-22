@@ -14,7 +14,7 @@
   <Date>日期</Date>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
-  <ChooseStructureMemesInfo>选择你的文化形态的象征结构。这只会影响符号 - 它不会影响游戏玩法。</ChooseStructureMemesInfo>
+  <ChooseStructureMemesInfo>选择你的文化形态的象征结构。这只会影响符号 —— 它不会影响游戏玩法。</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
   <ChooseNormalMemesInfo>选择 {0}-{1} 个模因来形成这个文化形态的基本思想。部分模因对游戏玩法的影响比其他的要大得多。</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
@@ -66,7 +66,7 @@
   <!-- EN: Leader bonus -->
   <YourLeaderTradeBonus>领袖奖励</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
-  <CannotNotAddRoleApparelDueToMeme>这个模因 {MEME} 防止为角色增加服装要求。</CannotNotAddRoleApparelDueToMeme>
+  <CannotNotAddRoleApparelDueToMeme>模因 {MEME} 防止为角色增加服装要求。</CannotNotAddRoleApparelDueToMeme>
 
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>认可度减少</AbilityIdeoConvertBreakdownLabel>
@@ -123,7 +123,7 @@
 
   <!-- Style -->
   <!-- EN: Style -->
-  <StylePawn>类型</StylePawn>
+  <StylePawn>风格</StylePawn>
   <!-- EN: Cancel -->
   <Cancel>取消</Cancel>
   <!-- EN: hair -->
@@ -143,11 +143,11 @@
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
   <PawnUnhappyWithStyleItems>{PAWN_nameDef} 会对以下内容不满意 </PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
-  <StyleCategoryDescription>样式类别会影响 {IDEO_memberNamePlural}。制作的某些建筑物、服装和武器的外观。如果不止一个类别影响同一件事，则适用最左侧的类别。</StyleCategoryDescription>
+  <StyleCategoryDescription>风格会影响 {IDEO_memberNamePlural}。制作的某些建筑物、服装和武器的外观。如果不止一个类别影响同一件事，则适用最左侧的类别。</StyleCategoryDescription>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
   <StyleCategoryDescStyleDominance>如果 {IDEO_memberNamePlural} 注意到符合这种风格的建筑物、楼层和艺术品，他们会很高兴。</StyleCategoryDescStyleDominance>
   <!-- EN: {0} style category affects -->
-  <StyleCategoryDetails>{0} 样式类别影响</StyleCategoryDetails>
+  <StyleCategoryDetails>{0} 风格影响</StyleCategoryDetails>
   <!-- EN: Overriden by {0} -->
   <OverriddenByStyle>被 {0} 覆盖</OverriddenByStyle>
   <!-- EN: New buildables -->
@@ -183,7 +183,7 @@
   <!-- EN: Collapse all -->
   <CollapseAllCategories>全部折叠</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
-  <ResetButtonDesc>将所有样式项重置为默认值。</ResetButtonDesc>
+  <ResetButtonDesc>将所有风格项重置为默认值。</ResetButtonDesc>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
@@ -229,7 +229,7 @@
   <!-- EN: Convert -->
   <ConvertToPlayerIdeoligion>转换</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
-  <RevertToPreviousIdeoligion>回复</RevertToPreviousIdeoligion>
+  <RevertToPreviousIdeoligion>回归</RevertToPreviousIdeoligion>
   <!-- EN: Existing follower -->
   <ExistingFollowerOfPlayerIdeoligion>现有的追随者</ExistingFollowerOfPlayerIdeoligion>
   <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->

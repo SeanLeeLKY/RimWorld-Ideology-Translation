@@ -33,7 +33,7 @@
   <!-- EN: Relics -->
   <IdeoRelics>圣物</IdeoRelics>
   <!-- EN: Preferred apparel -->
-  <IdeoApparel>首选服装</IdeoApparel>
+  <IdeoApparel>偏好服装</IdeoApparel>
   <!-- EN: apparel desire -->
   <IdeoApparelDesire>服装需求</IdeoApparelDesire>
   <!-- EN: Won't do -->
@@ -139,9 +139,9 @@
   <!-- EN: Weapons -->
   <IdeoWeapons>武器</IdeoWeapons>
   <!-- EN: Swap noble and despised -->
-  <SwapNobleAndDespised>交换高尚和鄙夷</SwapNobleAndDespised>
+  <SwapNobleAndDespised>交换推崇和鄙夷</SwapNobleAndDespised>
   <!-- EN: noble -->
-  <Noble>高尚</Noble>
+  <Noble>推崇</Noble>
   <!-- EN: despised -->
   <Despised>鄙夷</Despised>
   <!-- EN: Unlocked craftables -->

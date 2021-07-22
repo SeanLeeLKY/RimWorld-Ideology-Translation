@@ -5,10 +5,10 @@
   <AteVeneratedAnimalMeat.label>吃了圣兽的肉</AteVeneratedAnimalMeat.label>
   
   <!-- EN: hunted venerated animal -->
-  <HuntedVeneratedAnimal.label>狩猎了圣兽</HuntedVeneratedAnimal.label>
+  <HuntedVeneratedAnimal.label>狩猎圣兽</HuntedVeneratedAnimal.label>
   
   <!-- EN: slaughtered venerated animal -->
-  <SlaughteredVeneratedAnimal.label>宰杀了圣兽</SlaughteredVeneratedAnimal.label>
+  <SlaughteredVeneratedAnimal.label>宰杀圣兽</SlaughteredVeneratedAnimal.label>
   
   <!-- EN: tame venerated animal died -->
   <TameVeneratedAnimalDied.label>驯服的圣兽死亡</TameVeneratedAnimalDied.label>

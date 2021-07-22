@@ -33,7 +33,7 @@
   <!-- EN: Remove precept -->
   <RemovePrecept>删除戒律</RemovePrecept>
   <!-- EN: Regenerate -->
-  <Regenerate>再生</Regenerate>
+  <Regenerate>重新生成</Regenerate>
   <!-- EN: Cannot edit -->
   <CannotEdit>无法编辑</CannotEdit>
   <!-- EN: No choices available -->
@@ -67,7 +67,7 @@
   <!-- EN: already getting -->
   <NeuralSuperchargeAlreadyGetting>已经得到</NeuralSuperchargeAlreadyGetting>
   <!-- EN: Set type -->
-  <SetApparelType>集类型</SetApparelType>
+  <SetApparelType>设置类型</SetApparelType>
 
   <!-- EN: change style -->
   <ChangeStyle>改变风格</ChangeStyle>

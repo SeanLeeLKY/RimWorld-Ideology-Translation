@@ -123,7 +123,7 @@
   <!-- EN: human leather {0} (+2) -->
   <HumanLeatherApparel_Disapproved.stages.human_leather_2.label>人皮{0}（3件）</HumanLeatherApparel_Disapproved.stages.human_leather_2.label>
   <!-- EN: Why am I wearing so much human leather apparel? We should have something else to wear for me... -->
-  <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>我为什么要穿这么多人皮衣服？我们应该给我找件别的衣服穿。</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>我为什么要穿这么多人皮衣服？应该给我找件别的衣服穿。</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
   <HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>人皮{0}（多件）</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
   <!-- EN: I should really wear non-human leather apparel. I look like a crazy person. -->
