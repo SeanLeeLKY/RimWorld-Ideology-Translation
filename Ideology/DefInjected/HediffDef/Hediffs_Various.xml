@@ -12,7 +12,7 @@
   <Blindfold.description>盲障会阻碍人物视觉。</Blindfold.description>
   
   <!-- EN: neural supercharge -->
-  <NeuralSupercharge.label>神经增压</NeuralSupercharge.label>
+  <NeuralSupercharge.label>神经超频</NeuralSupercharge.label>
   <!-- EN: An externally-induced increase in sensitivity and synchronicity of neurons. This boosts consciousness and learning rate at the cost of increased hunger. -->
   <NeuralSupercharge.description>外部引起的神经敏感性和同步性提高。可以提高意识和学习能力，但是同样也会增加饥饿速率。</NeuralSupercharge.description>
   

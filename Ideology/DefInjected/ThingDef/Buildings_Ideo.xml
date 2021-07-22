@@ -24,13 +24,13 @@
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>塑形舱</BiosculpterPod.label>
   <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
-  <BiosculpterPod.description>配备塑形流体注射器和控制系统的舱体。它可以为使用者进行各类生物学调整，甚至包括年龄逆行和愉悦诱发。塑形舱将会绑定使用者进行生物塑形。解除生物塑形舱的绑定将需要60天的重置过程。超人主义的信徒们相信，塑形舱在他们寻求超越常人躯壳限制的过程中至关重要。</BiosculpterPod.description>
+  <BiosculpterPod.description>配备塑形流体注射器和控制系统的舱体。它可以为使用者进行各类生物学调整，甚至包括年龄逆转和愉悦诱发。塑形舱将会绑定使用者进行生物塑形。解除生物塑形舱的绑定将需要60天的重置过程。超人主义的信徒们相信，塑形舱在他们寻求超越常人躯壳限制的过程中至关重要。</BiosculpterPod.description>
   <!-- EN: healing -->
   <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>治愈</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
   <!-- EN: Heal all fresh wounds and one random permanent injury. -->
   <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>治愈所有的伤口和随机一个永久疤痕。</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
   <!-- EN: age reversal -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>年龄逆行</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>年龄逆转</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
   <!-- EN: Reverse one year of aging. -->
   <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>让使用者的年龄逆行一年。</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
   <!-- EN: pleasure -->
@@ -86,7 +86,7 @@
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>神经超频装置</NeuralSupercharger.label>
   <!-- EN: A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity. -->
-  <NeuralSupercharger.description>一种能在每天只能使用一次的神经超频装置。神经超频者能加速学习过程但也会因此更容易饥饿。神经增压器消耗大量电力。这种效果一天就会消失。</NeuralSupercharger.description>
+  <NeuralSupercharger.description>一种能在每天只能使用一次的神经超频装置。神经超频者能加速学习过程但也会因此更容易饥饿。神经超频装置消耗大量电力。这种效果一天就会消失。</NeuralSupercharger.description>
   <!-- EN: Get neural supercharge -->
   <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>获得神经超频</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
   

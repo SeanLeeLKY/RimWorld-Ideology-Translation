@@ -23,7 +23,7 @@
   <ExtractToInventory.reportString>正在将TargetA提取到库存。</ExtractToInventory.reportString>
   
   <!-- EN: getting neural supercharge from TargetA -->
-  <GetNeuralSupercharge.reportString>正在从TargetA获得神经增压。</GetNeuralSupercharge.reportString>
+  <GetNeuralSupercharge.reportString>正在从TargetA获得神经超频。</GetNeuralSupercharge.reportString>
   
   <!-- EN: giving TargetA to TargetB. -->
   <GiveToPawn.reportString>正在将TargetA交给TargetB。</GiveToPawn.reportString>
