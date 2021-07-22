@@ -9,12 +9,12 @@
   <!-- EN: global certainty loss factor -->
   <CertaintyLossFactor.label>全局信念损失因数</CertaintyLossFactor.label>
   <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
-  <CertaintyLossFactor.description>试图转变此人文化信念时，此人信念坚定程度降低因数。</CertaintyLossFactor.description>
+  <CertaintyLossFactor.description>试图转变此人文化形态时，此人信念坚定程度降低因数。</CertaintyLossFactor.description>
   
   <!-- EN: conversion power -->
   <ConversionPower.label>教化能力</ConversionPower.label>
   <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
-  <ConversionPower.description>这个人在使他人转变为己方文化信念时的效果。当这个人试图教化别人时，这个数值会乘以对方的信念损失数。</ConversionPower.description>
+  <ConversionPower.description>这个人在使他人转变为己方文化形态时的效果。当这个人试图教化别人时，这个数值会乘以对方的信念损失数。</ConversionPower.description>
   
   <!-- EN: melee dodge chance indoors dark -->
   <MeleeDodgeChanceIndoorsDarkOffset.label>近战躲闪（室内黑暗环境）</MeleeDodgeChanceIndoorsDarkOffset.label>
@@ -77,8 +77,8 @@
   <ShootingAccuracyOutdoorsLitOffset.description>室外明亮环境对于目标远程攻击的命中偏移。</ShootingAccuracyOutdoorsLitOffset.description>
   
   <!-- EN: ideoligion spread chance -->
-  <SocialIdeoSpreadFrequencyFactor.label>文化传播因数</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.label>文化传播系数</SocialIdeoSpreadFrequencyFactor.label>
   <!-- EN: A multiplier on the chance that this person will try to convert other people to their own ideoligion. -->
-  <SocialIdeoSpreadFrequencyFactor.description>这个人将其他人转变为和自己同文化信念的因数。</SocialIdeoSpreadFrequencyFactor.description>
+  <SocialIdeoSpreadFrequencyFactor.description>这个人将其他人转变为和自己同文化形态的因数。</SocialIdeoSpreadFrequencyFactor.description>
   
 </LanguageData>

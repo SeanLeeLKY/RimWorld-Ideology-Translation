@@ -9,7 +9,7 @@
   <!-- EN: conversion ritual -->
   <Conversion.label>改造仪式</Conversion.label>
   <!-- EN: Try to persuade someone into joining your ideoligion. -->
-  <Conversion.description>试图说服别人加入你的信仰。</Conversion.description>
+  <Conversion.description>试图说服别人加入你的文化形态。</Conversion.description>
   
   <!-- EN: christmas tree party -->
   <DateRitualConsumable.label>圣诞树派对</DateRitualConsumable.label>
