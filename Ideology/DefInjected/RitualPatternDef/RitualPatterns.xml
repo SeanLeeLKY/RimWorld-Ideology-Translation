@@ -55,7 +55,7 @@
   <CelebrationTree.shortDescOverride>圣诞节</CelebrationTree.shortDescOverride>
   
   <!-- EN: In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase. -->
-  <Conversion.ritualExplanation>TODO</Conversion.ritualExplanation>
+  <Conversion.ritualExplanation>在成功的情况下，他们的认可度将减少，或者他们将立即皈依。如果适得其反，他们对自己文化的认可度就会增加。</Conversion.ritualExplanation>
   
   <!-- EN: A ritualistic flesh-eating meal. Participants gather around a platter of human flesh and bloodily feast on it. -->
   <FeastCannibal.descOverride>一种食人仪式。参与者聚集在一大盘人肉周围，享用血腥的盛宴。</FeastCannibal.descOverride>
@@ -93,15 +93,15 @@
   <SacrificePrisoner.shortDescOverride>囚犯祭祀仪式</SacrificePrisoner.shortDescOverride>
   
   <!-- EN: {0} {1} want to carry out the scarification as soon as possible. -->
-  <ScarificationCeremony.ritualExpectedPostfix>TODO</ScarificationCeremony.ritualExpectedPostfix>
+  <ScarificationCeremony.ritualExpectedPostfix>{0}{1}希望尽快处理疤痕。</ScarificationCeremony.ritualExpectedPostfix>
   
   <!-- EN: A ritualistic smoking of large amounts of smokeleaf. Participants will gather around a burnbong or incense shrine, light it on fire, and celebrate while inhaling the fumes. -->
-  <SmokeCircle.descOverride>TODO</SmokeCircle.descOverride>
+  <SmokeCircle.descOverride>吸食大量大麻的一种仪式。 参与者将聚集在一个烟壶或香龛周围， 点燃它， 并在吸食烟雾的同时庆祝。</SmokeCircle.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
   <SmokeCircle.ritualExpectedDesc>每年 {DATE}, {MEMBERS} 庆祝 {RITUAL_labelDef}。</SmokeCircle.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
   <SmokeCircle.ritualExpectedPostfix> {0} {1} 想要尽快举行庆祝活动。</SmokeCircle.ritualExpectedPostfix>
   <!-- EN: smokeleaf circle -->
-  <SmokeCircle.shortDescOverride>烟叶聚会</SmokeCircle.shortDescOverride>
+  <SmokeCircle.shortDescOverride>大麻聚会</SmokeCircle.shortDescOverride>
   
 </LanguageData>

@@ -255,7 +255,7 @@
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <Conversion.comps.3.label> {PAWN_labelShort} 的社交影响</Conversion.comps.3.label>
   <!-- EN: convertee's expectations -->
-  <Conversion.comps.3.labelAbstract>TODO</Conversion.comps.3.labelAbstract>
+  <Conversion.comps.3.labelAbstract>皈依者的期望</Conversion.comps.3.labelAbstract>
   <!-- EN: Terrible -->
   <Conversion.outcomeChances.0.label>糟糕的</Conversion.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time. -->
