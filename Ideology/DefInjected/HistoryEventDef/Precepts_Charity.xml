@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: beggars helped -->
-  <CharityFulfilled_Beggars.label>帮助了乞丐</CharityFulfilled_Beggars.label>
+  <CharityFulfilled_Beggars.label>帮助了行乞者</CharityFulfilled_Beggars.label>
   
   <!-- EN: refugees helped -->
   <CharityFulfilled_HospitalityRefugees.label>帮助了难民</CharityFulfilled_HospitalityRefugees.label>
@@ -23,10 +23,10 @@
   <CharityFulfilled_WandererJoins.label>接受了流浪者</CharityFulfilled_WandererJoins.label>
   
   <!-- EN: beggars refused -->
-  <CharityRefused_Beggars.label>拒绝了乞丐</CharityRefused_Beggars.label>
+  <CharityRefused_Beggars.label>拒绝了行乞者</CharityRefused_Beggars.label>
   
   <!-- EN: beggars betrayed -->
-  <CharityRefused_Beggars_Betrayed.label>背叛了乞丐</CharityRefused_Beggars_Betrayed.label>
+  <CharityRefused_Beggars_Betrayed.label>背叛了行乞者</CharityRefused_Beggars_Betrayed.label>
   
   <!-- EN: refugees refused -->
   <CharityRefused_HospitalityRefugees.label>拒绝了难民</CharityRefused_HospitalityRefugees.label>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: beggars -->
-  <Beggars.label>乞丐</Beggars.label>
+  <Beggars.label>行乞者</Beggars.label>
   <!-- EN: A group of beggars seeking charity. -->
-  <Beggars.description>一群渴望救济的乞丐。</Beggars.description>
+  <Beggars.description>一群渴望救济的行乞者。</Beggars.description>
   <!-- EN: beggar -->
-  <Beggars.pawnSingular>乞丐</Beggars.pawnSingular>
+  <Beggars.pawnSingular>行乞者</Beggars.pawnSingular>
   <!-- EN: beggars -->
-  <Beggars.pawnsPlural>乞丐</Beggars.pawnsPlural>
+  <Beggars.pawnsPlural>行乞者</Beggars.pawnsPlural>
   
   <!-- EN: cannibal pirate gang -->
   <CannibalPirate.label>食人海盗团</CannibalPirate.label>

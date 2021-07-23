@@ -81,7 +81,7 @@
   <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>失明的人将获得心灵链接升级或解锁一个新的灵能力量。</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebratedDate.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的质量。</CelebratedDate.description>
+  <CelebratedDate.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值， 这取决于仪式的质量。</CelebratedDate.description>
   <!-- EN: leader present -->
   <CelebratedDate.comps.2.label>领导人出席</CelebratedDate.comps.2.label>
   <!-- EN: participant count -->
@@ -243,7 +243,7 @@
   <ConnectToTree.extraPredictedOutcomeDescriptions.0>每增加2%的仪式质量就会在树的周围长出一块高兰苔，美化这片区域。</ConnectToTree.extraPredictedOutcomeDescriptions.0>
   
   <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
-  <Conversion.description>如果进展顺利，目标的意识形态信仰力将会降低，或者他们将会转变信仰。如果进展不顺利，他们会对自己的旧信仰更加坚定。</Conversion.description>
+  <Conversion.description>如果进展顺利，目标的文化形态认可度将会降低，或者他们将会转变信仰。如果进展不顺利，他们会对自己的旧信仰更加坚定。</Conversion.description>
   <!-- EN: room impressiveness -->
   <Conversion.comps.0.label>令人难忘的房间</Conversion.comps.0.label>
   <!-- EN: participant count -->
